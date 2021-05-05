@@ -1,2 +1,2 @@
-# docs-stubby4node
-Stubby4Node
+# Stubby4Node
+https://github.com/mrak/stubby4node
